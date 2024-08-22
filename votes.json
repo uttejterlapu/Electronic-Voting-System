@@ -1,0 +1,14 @@
+[
+  {
+    "voterId": "$2a$10$hVdIZCsmLGrxDtgEC7.w/OGCkTyzkok.bMC2vNLCHDLr1aILjJgxS",
+    "candidate": "Alice"
+  },
+  {
+    "voterId": "$2a$10$.xdjOTV1WzZPkUWPSpBvmu/Q3.xCDPnb..ocNTNyzUODu1GAb48vW",
+    "candidate": "Bob"
+  },
+  {
+    "voterId": "$2a$10$JB9rOZL3TNWl.GO2oPvojek7CSuYxpkntEIMoWage/C929k/vALWC",
+    "candidate": "Charlie"
+  }
+]
